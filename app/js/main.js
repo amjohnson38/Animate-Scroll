@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 window.sr = ScrollReveal();
 sr.reveal('.navbar', {
     duration: 2000,
@@ -49,8 +48,4 @@ $(function () {
             }
         }
     });
-=======
-$("#red").click(function(){
-    
->>>>>>> 87ab858706d1ee75d01a0f79340905f696d491b1
 });
