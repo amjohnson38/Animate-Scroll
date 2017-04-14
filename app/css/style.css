@@ -1,0 +1,116 @@
+body{
+    margin-top:70px;
+    font-size:16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-family:Poppins;
+}
+
+p {
+    font-family: Roboto;
+}
+
+.navbar-default{
+    background-color:#fff;
+    border:0;
+    font-family: Poppins;
+}
+
+.navbar-brand{
+    font-size:20px;
+    color:#000 !important;
+    font-weight:bold;
+}
+
+
+#showcase h1{
+    font-size:50px;
+    margin-bottom: 20px;
+}
+
+#showcase img{
+    width:105%;
+}
+
+#showcase .showcase-left{
+    margin-right:40px;
+}
+
+#showcase .showcase-right{
+    margin-top:95px;
+    margin-left:25px;
+}
+
+.showcase-btn{
+    margin-left:20px;
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.customer-quote{
+    font-size:25px;
+    font-family:'Josefin Sans';
+    color: #000;
+}
+
+.customer-name{
+    font-size:20px;
+    font-family:'Josefin Sans' !important;
+    color: #000;
+}
+
+#info1 img{
+    width:105%;
+    margin-top:20px;
+}
+
+#info1 .info-left{
+    margin-right:30px;
+}
+
+#info1 .info-right{
+    margin-top:100px;
+    margin-left:25px;
+}
+
+#info1-btn{
+    margin-left:25px;
+}
+
+#info2{
+    margin:20px 0 60px 0;
+}
+
+#info2 .info-left{
+    margin-right:35px;
+}
+
+#info2 .info-right{
+    margin-left:25px;
+}
+
+#contact{
+    background:url("http://res.cloudinary.com/angiemjohnson/image/upload/c_scale,h_1000,w_2103/v1492195058/ricardo-gomez-angel-204573_z8vbuk.png");
+    background-color: rgba(0,0,0,.6);
+    background-blend-mode: darken;
+    color:#fff;
+    padding:40px;
+    border-top:#333 7px solid;
+    border-bottom:#333 7px solid;
+}
+
+.form-control{
+    border:#333 solid 2px;
+
+}
+
+footer{
+    padding:25px;
+    
+}
